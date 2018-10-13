@@ -10,7 +10,7 @@ and `gs` contains csv files with columns `word` and `root`, containing the words
 from the text and the manually corrected roots. If multiple roots apply, they
 have been separated using a backslash (`\`). If the word is a letter, the root is `#`.
 
-The text files have been analyzed using SAFAR. The directories `khoja`, `isri`, and `alkhalil` contain the output xml files.
+The text files have been analyzed using [SAFAR](http://arabic.emi.ac.ma/safar/), using [our software](https://github.com/arabic-digital-humanities/research-scripts). The directories `khoja`, `isri`, and `alkhalil` contain the output xml files.
 
 ## License
 
