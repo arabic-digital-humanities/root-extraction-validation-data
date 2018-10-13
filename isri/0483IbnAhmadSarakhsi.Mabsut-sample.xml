@@ -1,0 +1,2994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stemmer_analysis total_words="997">
+  <word w_id="1" value="">
+    <analysis stem="" type="ROOT" />
+  </word>
+  <word w_id="2" value="كتاب">
+    <analysis stem="كتب" type="ROOT" />
+  </word>
+  <word w_id="3" value="المبسوط">
+    <analysis stem="بسط" type="ROOT" />
+  </word>
+  <word w_id="4" value="للسرخسي">
+    <analysis stem="رخس" type="ROOT" />
+  </word>
+  <word w_id="5" value="بسم">
+    <analysis stem="بسم" type="ROOT" />
+  </word>
+  <word w_id="6" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="7" value="الرحمن">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="8" value="الرحيم">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="9" value="وما">
+    <analysis stem="وما" type="ROOT" />
+  </word>
+  <word w_id="10" value="توفيقي">
+    <analysis stem="وفق" type="ROOT" />
+  </word>
+  <word w_id="11" value="إلا">
+    <analysis stem="الا" type="ROOT" />
+  </word>
+  <word w_id="12" value="بالله">
+    <analysis stem="بلل" type="ROOT" />
+  </word>
+  <word w_id="13" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="14" value="توكلت">
+    <analysis stem="وكل" type="ROOT" />
+  </word>
+  <word w_id="15" value="وإليه">
+    <analysis stem="وإل" type="ROOT" />
+  </word>
+  <word w_id="16" value="أنيب">
+    <analysis stem="انب" type="ROOT" />
+  </word>
+  <word w_id="17" value="وصلى">
+    <analysis stem="صلى" type="ROOT" />
+  </word>
+  <word w_id="18" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="19" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="20" value="سيدنا">
+    <analysis stem="سيد" type="ROOT" />
+  </word>
+  <word w_id="21" value="محمد">
+    <analysis stem="حمد" type="ROOT" />
+  </word>
+  <word w_id="22" value="وعلى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="23" value="آله">
+    <analysis stem="اله" type="ROOT" />
+  </word>
+  <word w_id="24" value="وسلم">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="25" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="26" value="الشيخ">
+    <analysis stem="لشخ" type="ROOT" />
+  </word>
+  <word w_id="27" value="الإمام">
+    <analysis stem="امم" type="ROOT" />
+  </word>
+  <word w_id="28" value="الأجل">
+    <analysis stem="أجل" type="ROOT" />
+  </word>
+  <word w_id="29" value="الزاهد">
+    <analysis stem="زهد" type="ROOT" />
+  </word>
+  <word w_id="30" value="شمس">
+    <analysis stem="شمس" type="ROOT" />
+  </word>
+  <word w_id="31" value="الأئمة">
+    <analysis stem="ائم" type="ROOT" />
+  </word>
+  <word w_id="32" value="أبو">
+    <analysis stem="ابو" type="ROOT" />
+  </word>
+  <word w_id="33" value="بكر">
+    <analysis stem="بكر" type="ROOT" />
+  </word>
+  <word w_id="34" value="محمد">
+    <analysis stem="حمد" type="ROOT" />
+  </word>
+  <word w_id="35" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="36" value="أبي">
+    <analysis stem="ابي" type="ROOT" />
+  </word>
+  <word w_id="37" value="سهل">
+    <analysis stem="سهل" type="ROOT" />
+  </word>
+  <word w_id="38" value="السرخسي">
+    <analysis stem="رخس" type="ROOT" />
+  </word>
+  <word w_id="39" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="40" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="41" value="ونور">
+    <analysis stem="ونر" type="ROOT" />
+  </word>
+  <word w_id="42" value="ضريحه">
+    <analysis stem="ضرح" type="ROOT" />
+  </word>
+  <word w_id="43" value="وهو">
+    <analysis stem="وهو" type="ROOT" />
+  </word>
+  <word w_id="44" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="45" value="الحبس">
+    <analysis stem="حبس" type="ROOT" />
+  </word>
+  <word w_id="46" value="بأوزجند">
+    <analysis stem="أوزجند" type="ROOT" />
+  </word>
+  <word w_id="47" value="إملاء">
+    <analysis stem="ملء" type="ROOT" />
+  </word>
+  <word w_id="48" value="الحمد">
+    <analysis stem="حمد" type="ROOT" />
+  </word>
+  <word w_id="49" value="لله">
+    <analysis stem="لله" type="ROOT" />
+  </word>
+  <word w_id="50" value="بارىء">
+    <analysis stem="رىء" type="ROOT" />
+  </word>
+  <word w_id="51" value="النسم">
+    <analysis stem="نسم" type="ROOT" />
+  </word>
+  <word w_id="52" value="ومحيي">
+    <analysis stem="ومح" type="ROOT" />
+  </word>
+  <word w_id="53" value="الرمم">
+    <analysis stem="رمم" type="ROOT" />
+  </word>
+  <word w_id="54" value="ومجزل">
+    <analysis stem="جزل" type="ROOT" />
+  </word>
+  <word w_id="55" value="القسم">
+    <analysis stem="قسم" type="ROOT" />
+  </word>
+  <word w_id="56" value="مبدع">
+    <analysis stem="بدع" type="ROOT" />
+  </word>
+  <word w_id="57" value="البدائع">
+    <analysis stem="بدع" type="ROOT" />
+  </word>
+  <word w_id="58" value="وشارع">
+    <analysis stem="شرع" type="ROOT" />
+  </word>
+  <word w_id="59" value="الشرائع">
+    <analysis stem="شرع" type="ROOT" />
+  </word>
+  <word w_id="60" value="دينا">
+    <analysis stem="دين" type="ROOT" />
+  </word>
+  <word w_id="61" value="رضيا">
+    <analysis stem="رضا" type="ROOT" />
+  </word>
+  <word w_id="62" value="ونورا">
+    <analysis stem="ونر" type="ROOT" />
+  </word>
+  <word w_id="63" value="مضيا">
+    <analysis stem="ضيا" type="ROOT" />
+  </word>
+  <word w_id="64" value="لتكليف">
+    <analysis stem="كلف" type="ROOT" />
+  </word>
+  <word w_id="65" value="المحجوجين">
+    <analysis stem="حجج" type="ROOT" />
+  </word>
+  <word w_id="66" value="ووعد">
+    <analysis stem="وعد" type="ROOT" />
+  </word>
+  <word w_id="67" value="المؤتمرين">
+    <analysis stem="ؤمر" type="ROOT" />
+  </word>
+  <word w_id="68" value="ووأد">
+    <analysis stem="وأد" type="ROOT" />
+  </word>
+  <word w_id="69" value="المعتدين">
+    <analysis stem="عتد" type="ROOT" />
+  </word>
+  <word w_id="70" value="بينة">
+    <analysis stem="بين" type="ROOT" />
+  </word>
+  <word w_id="71" value="للعالمين">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="72" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="73" value="لسان">
+    <analysis stem="لسن" type="ROOT" />
+  </word>
+  <word w_id="74" value="سيد">
+    <analysis stem="سيد" type="ROOT" />
+  </word>
+  <word w_id="75" value="المرسلين">
+    <analysis stem="رسل" type="ROOT" />
+  </word>
+  <word w_id="76" value="وإمام">
+    <analysis stem="إمم" type="ROOT" />
+  </word>
+  <word w_id="77" value="المتقين">
+    <analysis stem="تقن" type="ROOT" />
+  </word>
+  <word w_id="78" value="خاتم">
+    <analysis stem="ختم" type="ROOT" />
+  </word>
+  <word w_id="79" value="النبيين">
+    <analysis stem="نبي" type="ROOT" />
+  </word>
+  <word w_id="80" value="سيدنا">
+    <analysis stem="سيد" type="ROOT" />
+  </word>
+  <word w_id="81" value="محمد">
+    <analysis stem="حمد" type="ROOT" />
+  </word>
+  <word w_id="82" value="صلى">
+    <analysis stem="صلى" type="ROOT" />
+  </word>
+  <word w_id="83" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="84" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="85" value="وعلى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="86" value="آله">
+    <analysis stem="اله" type="ROOT" />
+  </word>
+  <word w_id="87" value="الطيبين">
+    <analysis stem="طيب" type="ROOT" />
+  </word>
+  <word w_id="88" value="الطاهرين">
+    <analysis stem="طهر" type="ROOT" />
+  </word>
+  <word w_id="89" value="وعلى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="90" value="جميع">
+    <analysis stem="جمع" type="ROOT" />
+  </word>
+  <word w_id="91" value="الأنبياء">
+    <analysis stem="بيء" type="ROOT" />
+  </word>
+  <word w_id="92" value="والمرسلين">
+    <analysis stem="رسل" type="ROOT" />
+  </word>
+  <word w_id="93" value="وبعد">
+    <analysis stem="بعد" type="ROOT" />
+  </word>
+  <word w_id="94" value="فإن">
+    <analysis stem="فإن" type="ROOT" />
+  </word>
+  <word w_id="95" value="أقوى">
+    <analysis stem="اقى" type="ROOT" />
+  </word>
+  <word w_id="96" value="الفرائض">
+    <analysis stem="فرض" type="ROOT" />
+  </word>
+  <word w_id="97" value="بعد">
+    <analysis stem="بعد" type="ROOT" />
+  </word>
+  <word w_id="98" value="الإيمان">
+    <analysis stem="يمن" type="ROOT" />
+  </word>
+  <word w_id="99" value="بالله">
+    <analysis stem="بلل" type="ROOT" />
+  </word>
+  <word w_id="100" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="101" value="طلب">
+    <analysis stem="طلب" type="ROOT" />
+  </word>
+  <word w_id="102" value="العلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="103" value="كما">
+    <analysis stem="كما" type="ROOT" />
+  </word>
+  <word w_id="104" value="جاء">
+    <analysis stem="جاء" type="ROOT" />
+  </word>
+  <word w_id="105" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="106" value="الحديث">
+    <analysis stem="حدث" type="ROOT" />
+  </word>
+  <word w_id="107" value="عن">
+    <analysis stem="عن" type="ROOT" />
+  </word>
+  <word w_id="108" value="النبي">
+    <analysis stem="لنب" type="ROOT" />
+  </word>
+  <word w_id="109" value="صلى">
+    <analysis stem="صلى" type="ROOT" />
+  </word>
+  <word w_id="110" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="111" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="112" value="وسلم">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="113" value="أنه">
+    <analysis stem="انه" type="ROOT" />
+  </word>
+  <word w_id="114" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="115" value="طلب">
+    <analysis stem="طلب" type="ROOT" />
+  </word>
+  <word w_id="116" value="العلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="117" value="فريضة">
+    <analysis stem="فرض" type="ROOT" />
+  </word>
+  <word w_id="118" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="119" value="كل">
+    <analysis stem="كل" type="ROOT" />
+  </word>
+  <word w_id="120" value="مسلم">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="121" value="ومسلمة">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="122" value="والعلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="123" value="ميراث">
+    <analysis stem="يرث" type="ROOT" />
+  </word>
+  <word w_id="124" value="النبوة">
+    <analysis stem="نبة" type="ROOT" />
+  </word>
+  <word w_id="125" value="كما">
+    <analysis stem="كما" type="ROOT" />
+  </word>
+  <word w_id="126" value="جاء">
+    <analysis stem="جاء" type="ROOT" />
+  </word>
+  <word w_id="127" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="128" value="الحديث">
+    <analysis stem="حدث" type="ROOT" />
+  </word>
+  <word w_id="129" value="أن">
+    <analysis stem="ان" type="ROOT" />
+  </word>
+  <word w_id="130" value="الأنبياء">
+    <analysis stem="بيء" type="ROOT" />
+  </word>
+  <word w_id="131" value="عليهم">
+    <analysis stem="عليهم" type="ROOT" />
+  </word>
+  <word w_id="132" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="133" value="والسلام">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="134" value="لم">
+    <analysis stem="لم" type="ROOT" />
+  </word>
+  <word w_id="135" value="يورثوا">
+    <analysis stem="ورث" type="ROOT" />
+  </word>
+  <word w_id="136" value="دينارا">
+    <analysis stem="دينار" type="ROOT" />
+  </word>
+  <word w_id="137" value="ولا">
+    <analysis stem="ولا" type="ROOT" />
+  </word>
+  <word w_id="138" value="درهما">
+    <analysis stem="درهم" type="ROOT" />
+  </word>
+  <word w_id="139" value="وإنما">
+    <analysis stem="إنم" type="ROOT" />
+  </word>
+  <word w_id="140" value="ورثوا">
+    <analysis stem="رثو" type="ROOT" />
+  </word>
+  <word w_id="141" value="العلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="142" value="فمن">
+    <analysis stem="فمن" type="ROOT" />
+  </word>
+  <word w_id="143" value="أخذ">
+    <analysis stem="اخذ" type="ROOT" />
+  </word>
+  <word w_id="144" value="به">
+    <analysis stem="به" type="ROOT" />
+  </word>
+  <word w_id="145" value="أخذ">
+    <analysis stem="اخذ" type="ROOT" />
+  </word>
+  <word w_id="146" value="بحظ">
+    <analysis stem="بحظ" type="ROOT" />
+  </word>
+  <word w_id="147" value="وافر">
+    <analysis stem="وفر" type="ROOT" />
+  </word>
+  <word w_id="148" value="والعلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="149" value="علمان">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="150" value="علم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="151" value="التوحيد">
+    <analysis stem="وحد" type="ROOT" />
+  </word>
+  <word w_id="152" value="والصفات">
+    <analysis stem="صفت" type="ROOT" />
+  </word>
+  <word w_id="153" value="وعلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="154" value="الفقه">
+    <analysis stem="لفق" type="ROOT" />
+  </word>
+  <word w_id="155" value="والشرائع">
+    <analysis stem="شرع" type="ROOT" />
+  </word>
+  <word w_id="156" value="فالأصل">
+    <analysis stem="أصل" type="ROOT" />
+  </word>
+  <word w_id="157" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="158" value="علم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="159" value="التوحيد">
+    <analysis stem="وحد" type="ROOT" />
+  </word>
+  <word w_id="160" value="التمسك">
+    <analysis stem="تمس" type="ROOT" />
+  </word>
+  <word w_id="161" value="بالكتاب">
+    <analysis stem="كتب" type="ROOT" />
+  </word>
+  <word w_id="162" value="والسنة">
+    <analysis stem="سنة" type="ROOT" />
+  </word>
+  <word w_id="163" value="ومجانبة">
+    <analysis stem="جنب" type="ROOT" />
+  </word>
+  <word w_id="164" value="الهوى">
+    <analysis stem="لهى" type="ROOT" />
+  </word>
+  <word w_id="165" value="والبدعة">
+    <analysis stem="بدع" type="ROOT" />
+  </word>
+  <word w_id="166" value="كما">
+    <analysis stem="كما" type="ROOT" />
+  </word>
+  <word w_id="167" value="كان">
+    <analysis stem="كان" type="ROOT" />
+  </word>
+  <word w_id="168" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="169" value="الصحابة">
+    <analysis stem="صحب" type="ROOT" />
+  </word>
+  <word w_id="170" value="والتابعون">
+    <analysis stem="تبع" type="ROOT" />
+  </word>
+  <word w_id="171" value="والسلف">
+    <analysis stem="سلف" type="ROOT" />
+  </word>
+  <word w_id="172" value="الصالحون">
+    <analysis stem="صلح" type="ROOT" />
+  </word>
+  <word w_id="173" value="رضوان">
+    <analysis stem="رضو" type="ROOT" />
+  </word>
+  <word w_id="174" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="175" value="عليهم">
+    <analysis stem="عليهم" type="ROOT" />
+  </word>
+  <word w_id="176" value="أجمعين">
+    <analysis stem="جمع" type="ROOT" />
+  </word>
+  <word w_id="177" value="الذين">
+    <analysis stem="الذين" type="ROOT" />
+  </word>
+  <word w_id="178" value="أخفاهم">
+    <analysis stem="اخف" type="ROOT" />
+  </word>
+  <word w_id="179" value="التراب">
+    <analysis stem="ترب" type="ROOT" />
+  </word>
+  <word w_id="180" value="وآثارهم">
+    <analysis stem="آثر" type="ROOT" />
+  </word>
+  <word w_id="181" value="بتصانيفهم">
+    <analysis stem="صنف" type="ROOT" />
+  </word>
+  <word w_id="182" value="باقية">
+    <analysis stem="بقي" type="ROOT" />
+  </word>
+  <word w_id="183" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="184" value="هذا">
+    <analysis stem="هذا" type="ROOT" />
+  </word>
+  <word w_id="185" value="الباب">
+    <analysis stem="لبب" type="ROOT" />
+  </word>
+  <word w_id="186" value="وقد">
+    <analysis stem="وقد" type="ROOT" />
+  </word>
+  <word w_id="187" value="عزمت">
+    <analysis stem="عزم" type="ROOT" />
+  </word>
+  <word w_id="188" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="189" value="جمع">
+    <analysis stem="جمع" type="ROOT" />
+  </word>
+  <word w_id="190" value="أقاويلهم">
+    <analysis stem="قاويل" type="ROOT" />
+  </word>
+  <word w_id="191" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="192" value="تأليف">
+    <analysis stem="ألف" type="ROOT" />
+  </word>
+  <word w_id="193" value="هذا">
+    <analysis stem="هذا" type="ROOT" />
+  </word>
+  <word w_id="194" value="الكتاب">
+    <analysis stem="كتب" type="ROOT" />
+  </word>
+  <word w_id="195" value="تذكرة">
+    <analysis stem="ذكر" type="ROOT" />
+  </word>
+  <word w_id="196" value="لأولى">
+    <analysis stem="أولى" type="ROOT" />
+  </word>
+  <word w_id="197" value="الألباب">
+    <analysis stem="لبب" type="ROOT" />
+  </word>
+  <word w_id="198" value="وأما">
+    <analysis stem="وأم" type="ROOT" />
+  </word>
+  <word w_id="199" value="علم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="200" value="الفقه">
+    <analysis stem="لفق" type="ROOT" />
+  </word>
+  <word w_id="201" value="والشرائع">
+    <analysis stem="شرع" type="ROOT" />
+  </word>
+  <word w_id="202" value="فهو">
+    <analysis stem="فهو" type="ROOT" />
+  </word>
+  <word w_id="203" value="الخير">
+    <analysis stem="لخر" type="ROOT" />
+  </word>
+  <word w_id="204" value="الكثير">
+    <analysis stem="كثر" type="ROOT" />
+  </word>
+  <word w_id="205" value="كما">
+    <analysis stem="كما" type="ROOT" />
+  </word>
+  <word w_id="206" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="207" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="208" value="عز">
+    <analysis stem="عز" type="ROOT" />
+  </word>
+  <word w_id="209" value="وجل">
+    <analysis stem="وجل" type="ROOT" />
+  </word>
+  <word w_id="210" value="ومن">
+    <analysis stem="ومن" type="ROOT" />
+  </word>
+  <word w_id="211" value="يؤت">
+    <analysis stem="يؤت" type="ROOT" />
+  </word>
+  <word w_id="212" value="الحكمة">
+    <analysis stem="حكم" type="ROOT" />
+  </word>
+  <word w_id="213" value="فقد">
+    <analysis stem="فقد" type="ROOT" />
+  </word>
+  <word w_id="214" value="أوتي">
+    <analysis stem="اوت" type="ROOT" />
+  </word>
+  <word w_id="215" value="خيرا">
+    <analysis stem="خير" type="ROOT" />
+  </word>
+  <word w_id="216" value="كثيرا">
+    <analysis stem="كثر" type="ROOT" />
+  </word>
+  <word w_id="217" value="البقرة">
+    <analysis stem="بقر" type="ROOT" />
+  </word>
+  <word w_id="218" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="219" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="220" value="عباس">
+    <analysis stem="عبس" type="ROOT" />
+  </word>
+  <word w_id="221" value="رضي">
+    <analysis stem="رضي" type="ROOT" />
+  </word>
+  <word w_id="222" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="223" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="224" value="عنه">
+    <analysis stem="عنه" type="ROOT" />
+  </word>
+  <word w_id="225" value="الحكمة">
+    <analysis stem="حكم" type="ROOT" />
+  </word>
+  <word w_id="226" value="معرفة">
+    <analysis stem="عرف" type="ROOT" />
+  </word>
+  <word w_id="227" value="الأحكام">
+    <analysis stem="حكم" type="ROOT" />
+  </word>
+  <word w_id="228" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="229" value="الحلال">
+    <analysis stem="حلل" type="ROOT" />
+  </word>
+  <word w_id="230" value="والحرام">
+    <analysis stem="حرم" type="ROOT" />
+  </word>
+  <word w_id="231" value="وقد">
+    <analysis stem="وقد" type="ROOT" />
+  </word>
+  <word w_id="232" value="ندب">
+    <analysis stem="ندب" type="ROOT" />
+  </word>
+  <word w_id="233" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="234" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="235" value="إلى">
+    <analysis stem="الى" type="ROOT" />
+  </word>
+  <word w_id="236" value="ذلك">
+    <analysis stem="ذلك" type="ROOT" />
+  </word>
+  <word w_id="237" value="بقوله">
+    <analysis stem="بقل" type="ROOT" />
+  </word>
+  <word w_id="238" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="239" value="فلولا">
+    <analysis stem="فلل" type="ROOT" />
+  </word>
+  <word w_id="240" value="نفر">
+    <analysis stem="نفر" type="ROOT" />
+  </word>
+  <word w_id="241" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="242" value="كل">
+    <analysis stem="كل" type="ROOT" />
+  </word>
+  <word w_id="243" value="فرقة">
+    <analysis stem="فرق" type="ROOT" />
+  </word>
+  <word w_id="244" value="منهم">
+    <analysis stem="نهم" type="ROOT" />
+  </word>
+  <word w_id="245" value="طائفة">
+    <analysis stem="طئف" type="ROOT" />
+  </word>
+  <word w_id="246" value="ليتفقهوا">
+    <analysis stem="تفق" type="ROOT" />
+  </word>
+  <word w_id="247" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="248" value="الدين">
+    <analysis stem="الد" type="ROOT" />
+  </word>
+  <word w_id="249" value="ولينذروا">
+    <analysis stem="نذر" type="ROOT" />
+  </word>
+  <word w_id="250" value="قومهم">
+    <analysis stem="قومهم" type="ROOT" />
+  </word>
+  <word w_id="251" value="إذا">
+    <analysis stem="اذا" type="ROOT" />
+  </word>
+  <word w_id="252" value="رجعوا">
+    <analysis stem="رجعو" type="ROOT" />
+  </word>
+  <word w_id="253" value="إليهم">
+    <analysis stem="يهم" type="ROOT" />
+  </word>
+  <word w_id="254" value="لعلهم">
+    <analysis stem="علهم" type="ROOT" />
+  </word>
+  <word w_id="255" value="يحذرون">
+    <analysis stem="حذر" type="ROOT" />
+  </word>
+  <word w_id="256" value="فقد">
+    <analysis stem="فقد" type="ROOT" />
+  </word>
+  <word w_id="257" value="جعل">
+    <analysis stem="جعل" type="ROOT" />
+  </word>
+  <word w_id="258" value="ولاية">
+    <analysis stem="ولي" type="ROOT" />
+  </word>
+  <word w_id="259" value="الإنذار">
+    <analysis stem="ذار" type="ROOT" />
+  </word>
+  <word w_id="260" value="والدعوة">
+    <analysis stem="دعة" type="ROOT" />
+  </word>
+  <word w_id="261" value="للفقهاء">
+    <analysis stem="قهء" type="ROOT" />
+  </word>
+  <word w_id="262" value="وهذه">
+    <analysis stem="وهذ" type="ROOT" />
+  </word>
+  <word w_id="263" value="درجة">
+    <analysis stem="درج" type="ROOT" />
+  </word>
+  <word w_id="264" value="الأنبياء">
+    <analysis stem="بيء" type="ROOT" />
+  </word>
+  <word w_id="265" value="تركوها">
+    <analysis stem="ركو" type="ROOT" />
+  </word>
+  <word w_id="266" value="ميراثا">
+    <analysis stem="يرث" type="ROOT" />
+  </word>
+  <word w_id="267" value="للعلماء">
+    <analysis stem="علماء" type="ROOT" />
+  </word>
+  <word w_id="268" value="كما">
+    <analysis stem="كما" type="ROOT" />
+  </word>
+  <word w_id="269" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="270" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="271" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="272" value="والسلام">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="273" value="العلماء">
+    <analysis stem="علماء" type="ROOT" />
+  </word>
+  <word w_id="274" value="ورثة">
+    <analysis stem="ورث" type="ROOT" />
+  </word>
+  <word w_id="275" value="الأنبياء">
+    <analysis stem="بيء" type="ROOT" />
+  </word>
+  <word w_id="276" value="وبعد">
+    <analysis stem="بعد" type="ROOT" />
+  </word>
+  <word w_id="277" value="انقطاع">
+    <analysis stem="قطع" type="ROOT" />
+  </word>
+  <word w_id="278" value="النبوة">
+    <analysis stem="نبة" type="ROOT" />
+  </word>
+  <word w_id="279" value="هذه">
+    <analysis stem="هذه" type="ROOT" />
+  </word>
+  <word w_id="280" value="الدرجة">
+    <analysis stem="درج" type="ROOT" />
+  </word>
+  <word w_id="281" value="أعلى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="282" value="النهاية">
+    <analysis stem="نهي" type="ROOT" />
+  </word>
+  <word w_id="283" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="284" value="القوة">
+    <analysis stem="لقو" type="ROOT" />
+  </word>
+  <word w_id="285" value="وهو">
+    <analysis stem="وهو" type="ROOT" />
+  </word>
+  <word w_id="286" value="معنى">
+    <analysis stem="عنى" type="ROOT" />
+  </word>
+  <word w_id="287" value="قول">
+    <analysis stem="قول" type="ROOT" />
+  </word>
+  <word w_id="288" value="النبي">
+    <analysis stem="لنب" type="ROOT" />
+  </word>
+  <word w_id="289" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="290" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="291" value="والسلام">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="292" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="293" value="يرد">
+    <analysis stem="يرد" type="ROOT" />
+  </word>
+  <word w_id="294" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="295" value="به">
+    <analysis stem="به" type="ROOT" />
+  </word>
+  <word w_id="296" value="خيرا">
+    <analysis stem="خير" type="ROOT" />
+  </word>
+  <word w_id="297" value="يفقهه">
+    <analysis stem="يفق" type="ROOT" />
+  </word>
+  <word w_id="298" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="299" value="الدين">
+    <analysis stem="الد" type="ROOT" />
+  </word>
+  <word w_id="300" value="وقال">
+    <analysis stem="وقل" type="ROOT" />
+  </word>
+  <word w_id="301" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="302" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="303" value="والسلام">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="304" value="خياركم">
+    <analysis stem="خير" type="ROOT" />
+  </word>
+  <word w_id="305" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="306" value="الجاهلية">
+    <analysis stem="جهل" type="ROOT" />
+  </word>
+  <word w_id="307" value="خياركم">
+    <analysis stem="خير" type="ROOT" />
+  </word>
+  <word w_id="308" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="309" value="الإسلام">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="310" value="إذا">
+    <analysis stem="اذا" type="ROOT" />
+  </word>
+  <word w_id="311" value="فقهوا">
+    <analysis stem="قهو" type="ROOT" />
+  </word>
+  <word w_id="312" value="ولهذا">
+    <analysis stem="لهذ" type="ROOT" />
+  </word>
+  <word w_id="313" value="اشتغل">
+    <analysis stem="شغل" type="ROOT" />
+  </word>
+  <word w_id="314" value="به">
+    <analysis stem="به" type="ROOT" />
+  </word>
+  <word w_id="315" value="أعلام">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="316" value="الصحابة">
+    <analysis stem="صحب" type="ROOT" />
+  </word>
+  <word w_id="317" value="والتابعين">
+    <analysis stem="تبع" type="ROOT" />
+  </word>
+  <word w_id="318" value="رضوان">
+    <analysis stem="رضو" type="ROOT" />
+  </word>
+  <word w_id="319" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="320" value="عليهم">
+    <analysis stem="عليهم" type="ROOT" />
+  </word>
+  <word w_id="321" value="وأول">
+    <analysis stem="وأل" type="ROOT" />
+  </word>
+  <word w_id="322" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="323" value="فرع">
+    <analysis stem="فرع" type="ROOT" />
+  </word>
+  <word w_id="324" value="فيه">
+    <analysis stem="فيه" type="ROOT" />
+  </word>
+  <word w_id="325" value="وألف">
+    <analysis stem="ألف" type="ROOT" />
+  </word>
+  <word w_id="326" value="وصنف">
+    <analysis stem="صنف" type="ROOT" />
+  </word>
+  <word w_id="327" value="سراج">
+    <analysis stem="سرج" type="ROOT" />
+  </word>
+  <word w_id="328" value="الأمة">
+    <analysis stem="لأم" type="ROOT" />
+  </word>
+  <word w_id="329" value="أبو">
+    <analysis stem="ابو" type="ROOT" />
+  </word>
+  <word w_id="330" value="حنيفة">
+    <analysis stem="حنف" type="ROOT" />
+  </word>
+  <word w_id="331" value="رحمة">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="332" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="333" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="334" value="بتوفيق">
+    <analysis stem="وفق" type="ROOT" />
+  </word>
+  <word w_id="335" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="336" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="337" value="عز">
+    <analysis stem="عز" type="ROOT" />
+  </word>
+  <word w_id="338" value="وجل">
+    <analysis stem="وجل" type="ROOT" />
+  </word>
+  <word w_id="339" value="خصه">
+    <analysis stem="خصه" type="ROOT" />
+  </word>
+  <word w_id="340" value="به">
+    <analysis stem="به" type="ROOT" />
+  </word>
+  <word w_id="341" value="واتفاق">
+    <analysis stem="تفق" type="ROOT" />
+  </word>
+  <word w_id="342" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="343" value="أصحاب">
+    <analysis stem="صحب" type="ROOT" />
+  </word>
+  <word w_id="344" value="اجتمعوا">
+    <analysis stem="جمع" type="ROOT" />
+  </word>
+  <word w_id="345" value="له">
+    <analysis stem="له" type="ROOT" />
+  </word>
+  <word w_id="346" value="كأبي">
+    <analysis stem="كأب" type="ROOT" />
+  </word>
+  <word w_id="347" value="يوسف">
+    <analysis stem="وسف" type="ROOT" />
+  </word>
+  <word w_id="348" value="يعقوب">
+    <analysis stem="عقب" type="ROOT" />
+  </word>
+  <word w_id="349" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="350" value="إبراهيم">
+    <analysis stem="راهيم" type="ROOT" />
+  </word>
+  <word w_id="351" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="352" value="خنيس">
+    <analysis stem="خنس" type="ROOT" />
+  </word>
+  <word w_id="353" value="الأنصاري">
+    <analysis stem="صار" type="ROOT" />
+  </word>
+  <word w_id="354" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="355" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="356" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="357" value="المقدم">
+    <analysis stem="قدم" type="ROOT" />
+  </word>
+  <word w_id="358" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="359" value="علم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="360" value="الأخبار">
+    <analysis stem="خبر" type="ROOT" />
+  </word>
+  <word w_id="361" value="والحسن">
+    <analysis stem="حسن" type="ROOT" />
+  </word>
+  <word w_id="362" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="363" value="زياد">
+    <analysis stem="زيد" type="ROOT" />
+  </word>
+  <word w_id="364" value="اللؤلؤي">
+    <analysis stem="ؤلؤ" type="ROOT" />
+  </word>
+  <word w_id="365" value="المقدم">
+    <analysis stem="قدم" type="ROOT" />
+  </word>
+  <word w_id="366" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="367" value="السؤال">
+    <analysis stem="سؤل" type="ROOT" />
+  </word>
+  <word w_id="368" value="والتفريع">
+    <analysis stem="فرع" type="ROOT" />
+  </word>
+  <word w_id="369" value="وزفر">
+    <analysis stem="زفر" type="ROOT" />
+  </word>
+  <word w_id="370" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="371" value="الهذيل">
+    <analysis stem="هذل" type="ROOT" />
+  </word>
+  <word w_id="372" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="373" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="374" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="375" value="قيس">
+    <analysis stem="قيس" type="ROOT" />
+  </word>
+  <word w_id="376" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="377" value="سليم">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="378" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="379" value="مكمل">
+    <analysis stem="كمل" type="ROOT" />
+  </word>
+  <word w_id="380" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="381" value="ذهل">
+    <analysis stem="ذهل" type="ROOT" />
+  </word>
+  <word w_id="382" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="383" value="ذؤيب">
+    <analysis stem="ذؤب" type="ROOT" />
+  </word>
+  <word w_id="384" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="385" value="جذيمة">
+    <analysis stem="جذم" type="ROOT" />
+  </word>
+  <word w_id="386" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="387" value="عمرو">
+    <analysis stem="عمرو" type="ROOT" />
+  </word>
+  <word w_id="388" value="المقدم">
+    <analysis stem="قدم" type="ROOT" />
+  </word>
+  <word w_id="389" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="390" value="القياس">
+    <analysis stem="قيس" type="ROOT" />
+  </word>
+  <word w_id="391" value="ومحمد">
+    <analysis stem="حمد" type="ROOT" />
+  </word>
+  <word w_id="392" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="393" value="الحسن">
+    <analysis stem="لحس" type="ROOT" />
+  </word>
+  <word w_id="394" value="الشيباني">
+    <analysis stem="شيب" type="ROOT" />
+  </word>
+  <word w_id="395" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="396" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="397" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="398" value="المقدم">
+    <analysis stem="قدم" type="ROOT" />
+  </word>
+  <word w_id="399" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="400" value="الفطنة">
+    <analysis stem="فطن" type="ROOT" />
+  </word>
+  <word w_id="401" value="وعلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="402" value="الإعراب">
+    <analysis stem="عرب" type="ROOT" />
+  </word>
+  <word w_id="403" value="والنحو">
+    <analysis stem="نحو" type="ROOT" />
+  </word>
+  <word w_id="404" value="والحساب">
+    <analysis stem="حسب" type="ROOT" />
+  </word>
+  <word w_id="405" value="هذا">
+    <analysis stem="هذا" type="ROOT" />
+  </word>
+  <word w_id="406" value="مع">
+    <analysis stem="مع" type="ROOT" />
+  </word>
+  <word w_id="407" value="أنه">
+    <analysis stem="انه" type="ROOT" />
+  </word>
+  <word w_id="408" value="ولد">
+    <analysis stem="ولد" type="ROOT" />
+  </word>
+  <word w_id="409" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="410" value="عهد">
+    <analysis stem="عهد" type="ROOT" />
+  </word>
+  <word w_id="411" value="الصحابة">
+    <analysis stem="صحب" type="ROOT" />
+  </word>
+  <word w_id="412" value="رضوان">
+    <analysis stem="رضو" type="ROOT" />
+  </word>
+  <word w_id="413" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="414" value="عليهم">
+    <analysis stem="عليهم" type="ROOT" />
+  </word>
+  <word w_id="415" value="ولقي">
+    <analysis stem="ولق" type="ROOT" />
+  </word>
+  <word w_id="416" value="منهم">
+    <analysis stem="نهم" type="ROOT" />
+  </word>
+  <word w_id="417" value="جماعة">
+    <analysis stem="جمع" type="ROOT" />
+  </word>
+  <word w_id="418" value="كأنس">
+    <analysis stem="كأنس" type="ROOT" />
+  </word>
+  <word w_id="419" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="420" value="مالك">
+    <analysis stem="الك" type="ROOT" />
+  </word>
+  <word w_id="421" value="وعامر">
+    <analysis stem="عمر" type="ROOT" />
+  </word>
+  <word w_id="422" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="423" value="الطفيل">
+    <analysis stem="طفل" type="ROOT" />
+  </word>
+  <word w_id="424" value="وعبد">
+    <analysis stem="عبد" type="ROOT" />
+  </word>
+  <word w_id="425" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="426" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="427" value="خبر">
+    <analysis stem="خبر" type="ROOT" />
+  </word>
+  <word w_id="428" value="الزبيدي">
+    <analysis stem="زبد" type="ROOT" />
+  </word>
+  <word w_id="429" value="رضوان">
+    <analysis stem="رضو" type="ROOT" />
+  </word>
+  <word w_id="430" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="431" value="عليهم">
+    <analysis stem="عليهم" type="ROOT" />
+  </word>
+  <word w_id="432" value="أجمعين">
+    <analysis stem="جمع" type="ROOT" />
+  </word>
+  <word w_id="433" value="ونشأ">
+    <analysis stem="نشأ" type="ROOT" />
+  </word>
+  <word w_id="434" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="435" value="زمن">
+    <analysis stem="زمن" type="ROOT" />
+  </word>
+  <word w_id="436" value="التابعين">
+    <analysis stem="تبع" type="ROOT" />
+  </word>
+  <word w_id="437" value="رحمهم">
+    <analysis stem="رحمهم" type="ROOT" />
+  </word>
+  <word w_id="438" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="439" value="وتفقه">
+    <analysis stem="تفق" type="ROOT" />
+  </word>
+  <word w_id="440" value="وأفتى">
+    <analysis stem="أفتى" type="ROOT" />
+  </word>
+  <word w_id="441" value="معهم">
+    <analysis stem="عهم" type="ROOT" />
+  </word>
+  <word w_id="442" value="وقد">
+    <analysis stem="وقد" type="ROOT" />
+  </word>
+  <word w_id="443" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="444" value="النبي">
+    <analysis stem="لنب" type="ROOT" />
+  </word>
+  <word w_id="445" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="446" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="447" value="والسلام">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="448" value="خير">
+    <analysis stem="خير" type="ROOT" />
+  </word>
+  <word w_id="449" value="القرون">
+    <analysis stem="قرن" type="ROOT" />
+  </word>
+  <word w_id="450" value="قرني">
+    <analysis stem="قرن" type="ROOT" />
+  </word>
+  <word w_id="451" value="الذين">
+    <analysis stem="الذين" type="ROOT" />
+  </word>
+  <word w_id="452" value="أنا">
+    <analysis stem="انا" type="ROOT" />
+  </word>
+  <word w_id="453" value="فيهم">
+    <analysis stem="يهم" type="ROOT" />
+  </word>
+  <word w_id="454" value="ثم">
+    <analysis stem="ثم" type="ROOT" />
+  </word>
+  <word w_id="455" value="الذين">
+    <analysis stem="الذين" type="ROOT" />
+  </word>
+  <word w_id="456" value="يلونهم">
+    <analysis stem="يلن" type="ROOT" />
+  </word>
+  <word w_id="457" value="ثم">
+    <analysis stem="ثم" type="ROOT" />
+  </word>
+  <word w_id="458" value="الذين">
+    <analysis stem="الذين" type="ROOT" />
+  </word>
+  <word w_id="459" value="يلونهم">
+    <analysis stem="يلن" type="ROOT" />
+  </word>
+  <word w_id="460" value="ثم">
+    <analysis stem="ثم" type="ROOT" />
+  </word>
+  <word w_id="461" value="يفشو">
+    <analysis stem="فشو" type="ROOT" />
+  </word>
+  <word w_id="462" value="الكذب">
+    <analysis stem="كذب" type="ROOT" />
+  </word>
+  <word w_id="463" value="حتى">
+    <analysis stem="حتى" type="ROOT" />
+  </word>
+  <word w_id="464" value="يشهد">
+    <analysis stem="شهد" type="ROOT" />
+  </word>
+  <word w_id="465" value="الرجل">
+    <analysis stem="رجل" type="ROOT" />
+  </word>
+  <word w_id="466" value="قبل">
+    <analysis stem="قبل" type="ROOT" />
+  </word>
+  <word w_id="467" value="أن">
+    <analysis stem="ان" type="ROOT" />
+  </word>
+  <word w_id="468" value="يستشهد">
+    <analysis stem="شهد" type="ROOT" />
+  </word>
+  <word w_id="469" value="ويحلف">
+    <analysis stem="حلف" type="ROOT" />
+  </word>
+  <word w_id="470" value="قبل">
+    <analysis stem="قبل" type="ROOT" />
+  </word>
+  <word w_id="471" value="أن">
+    <analysis stem="ان" type="ROOT" />
+  </word>
+  <word w_id="472" value="يستحلف">
+    <analysis stem="حلف" type="ROOT" />
+  </word>
+  <word w_id="473" value="فمن">
+    <analysis stem="فمن" type="ROOT" />
+  </word>
+  <word w_id="474" value="فرع">
+    <analysis stem="فرع" type="ROOT" />
+  </word>
+  <word w_id="475" value="ودون">
+    <analysis stem="ودن" type="ROOT" />
+  </word>
+  <word w_id="476" value="العلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="477" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="478" value="زمن">
+    <analysis stem="زمن" type="ROOT" />
+  </word>
+  <word w_id="479" value="شهد">
+    <analysis stem="شهد" type="ROOT" />
+  </word>
+  <word w_id="480" value="رسول">
+    <analysis stem="رسل" type="ROOT" />
+  </word>
+  <word w_id="481" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="482" value="صلى">
+    <analysis stem="صلى" type="ROOT" />
+  </word>
+  <word w_id="483" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="484" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="485" value="وسلم">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="486" value="لأهله">
+    <analysis stem="أهل" type="ROOT" />
+  </word>
+  <word w_id="487" value="بالخير">
+    <analysis stem="خير" type="ROOT" />
+  </word>
+  <word w_id="488" value="والصدق">
+    <analysis stem="صدق" type="ROOT" />
+  </word>
+  <word w_id="489" value="كان">
+    <analysis stem="كان" type="ROOT" />
+  </word>
+  <word w_id="490" value="مصيبا">
+    <analysis stem="صيب" type="ROOT" />
+  </word>
+  <word w_id="491" value="مقدما">
+    <analysis stem="قدم" type="ROOT" />
+  </word>
+  <word w_id="492" value="كيف">
+    <analysis stem="كيف" type="ROOT" />
+  </word>
+  <word w_id="493" value="وقد">
+    <analysis stem="وقد" type="ROOT" />
+  </word>
+  <word w_id="494" value="أقر">
+    <analysis stem="اقر" type="ROOT" />
+  </word>
+  <word w_id="495" value="له">
+    <analysis stem="له" type="ROOT" />
+  </word>
+  <word w_id="496" value="الخصوم">
+    <analysis stem="خصم" type="ROOT" />
+  </word>
+  <word w_id="497" value="بذلك">
+    <analysis stem="بذل" type="ROOT" />
+  </word>
+  <word w_id="498" value="حتى">
+    <analysis stem="حتى" type="ROOT" />
+  </word>
+  <word w_id="499" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="500" value="الشافعي">
+    <analysis stem="شفع" type="ROOT" />
+  </word>
+  <word w_id="501" value="رضي">
+    <analysis stem="رضي" type="ROOT" />
+  </word>
+  <word w_id="502" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="503" value="عنه">
+    <analysis stem="عنه" type="ROOT" />
+  </word>
+  <word w_id="504" value="الناس">
+    <analysis stem="لنس" type="ROOT" />
+  </word>
+  <word w_id="505" value="كلهم">
+    <analysis stem="كلهم" type="ROOT" />
+  </word>
+  <word w_id="506" value="عيال">
+    <analysis stem="عيل" type="ROOT" />
+  </word>
+  <word w_id="507" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="508" value="أبي">
+    <analysis stem="ابي" type="ROOT" />
+  </word>
+  <word w_id="509" value="حنيفة">
+    <analysis stem="حنف" type="ROOT" />
+  </word>
+  <word w_id="510" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="511" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="512" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="513" value="الفقه">
+    <analysis stem="لفق" type="ROOT" />
+  </word>
+  <word w_id="514" value="وبلغ">
+    <analysis stem="بلغ" type="ROOT" />
+  </word>
+  <word w_id="515" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="516" value="سريج">
+    <analysis stem="سرج" type="ROOT" />
+  </word>
+  <word w_id="517" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="518" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="519" value="وكان">
+    <analysis stem="وكان" type="ROOT" />
+  </word>
+  <word w_id="520" value="مقدما">
+    <analysis stem="قدم" type="ROOT" />
+  </word>
+  <word w_id="521" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="522" value="أصحاب">
+    <analysis stem="صحب" type="ROOT" />
+  </word>
+  <word w_id="523" value="الشافعي">
+    <analysis stem="شفع" type="ROOT" />
+  </word>
+  <word w_id="524" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="525" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="526" value="أن">
+    <analysis stem="ان" type="ROOT" />
+  </word>
+  <word w_id="527" value="رجلا">
+    <analysis stem="رجل" type="ROOT" />
+  </word>
+  <word w_id="528" value="يقع">
+    <analysis stem="يقع" type="ROOT" />
+  </word>
+  <word w_id="529" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="530" value="أبي">
+    <analysis stem="ابي" type="ROOT" />
+  </word>
+  <word w_id="531" value="حنيفة">
+    <analysis stem="حنف" type="ROOT" />
+  </word>
+  <word w_id="532" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="533" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="534" value="فدعاه">
+    <analysis stem="فدع" type="ROOT" />
+  </word>
+  <word w_id="535" value="وقال">
+    <analysis stem="وقل" type="ROOT" />
+  </word>
+  <word w_id="536" value="يا">
+    <analysis stem="يا" type="ROOT" />
+  </word>
+  <word w_id="537" value="هذا">
+    <analysis stem="هذا" type="ROOT" />
+  </word>
+  <word w_id="538" value="أتقع">
+    <analysis stem="تقع" type="ROOT" />
+  </word>
+  <word w_id="539" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="540" value="رجل">
+    <analysis stem="رجل" type="ROOT" />
+  </word>
+  <word w_id="541" value="سلم">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="542" value="له">
+    <analysis stem="له" type="ROOT" />
+  </word>
+  <word w_id="543" value="جميع">
+    <analysis stem="جمع" type="ROOT" />
+  </word>
+  <word w_id="544" value="الأمة">
+    <analysis stem="لأم" type="ROOT" />
+  </word>
+  <word w_id="545" value="ثلاثة">
+    <analysis stem="ثلث" type="ROOT" />
+  </word>
+  <word w_id="546" value="أرباع">
+    <analysis stem="ربع" type="ROOT" />
+  </word>
+  <word w_id="547" value="العلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="548" value="وهو">
+    <analysis stem="وهو" type="ROOT" />
+  </word>
+  <word w_id="549" value="لا">
+    <analysis stem="لا" type="ROOT" />
+  </word>
+  <word w_id="550" value="يسلم">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="551" value="لهم">
+    <analysis stem="لهم" type="ROOT" />
+  </word>
+  <word w_id="552" value="الربع">
+    <analysis stem="ربع" type="ROOT" />
+  </word>
+  <word w_id="553" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="554" value="وكيف">
+    <analysis stem="وكف" type="ROOT" />
+  </word>
+  <word w_id="555" value="ذلك">
+    <analysis stem="ذلك" type="ROOT" />
+  </word>
+  <word w_id="556" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="557" value="الفقه">
+    <analysis stem="لفق" type="ROOT" />
+  </word>
+  <word w_id="558" value="سؤال">
+    <analysis stem="سؤل" type="ROOT" />
+  </word>
+  <word w_id="559" value="وجواب">
+    <analysis stem="جوب" type="ROOT" />
+  </word>
+  <word w_id="560" value="وهو">
+    <analysis stem="وهو" type="ROOT" />
+  </word>
+  <word w_id="561" value="الذي">
+    <analysis stem="الذي" type="ROOT" />
+  </word>
+  <word w_id="562" value="تفرد">
+    <analysis stem="فرد" type="ROOT" />
+  </word>
+  <word w_id="563" value="بوضع">
+    <analysis stem="وضع" type="ROOT" />
+  </word>
+  <word w_id="564" value="الأسئلة">
+    <analysis stem="سئل" type="ROOT" />
+  </word>
+  <word w_id="565" value="فسلم">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="566" value="له">
+    <analysis stem="له" type="ROOT" />
+  </word>
+  <word w_id="567" value="نصف">
+    <analysis stem="نصف" type="ROOT" />
+  </word>
+  <word w_id="568" value="العلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="569" value="ثم">
+    <analysis stem="ثم" type="ROOT" />
+  </word>
+  <word w_id="570" value="أجاب">
+    <analysis stem="اجب" type="ROOT" />
+  </word>
+  <word w_id="571" value="عن">
+    <analysis stem="عن" type="ROOT" />
+  </word>
+  <word w_id="572" value="الكل">
+    <analysis stem="لكل" type="ROOT" />
+  </word>
+  <word w_id="573" value="وخصومه">
+    <analysis stem="خصم" type="ROOT" />
+  </word>
+  <word w_id="574" value="لا">
+    <analysis stem="لا" type="ROOT" />
+  </word>
+  <word w_id="575" value="يقولون">
+    <analysis stem="يقل" type="ROOT" />
+  </word>
+  <word w_id="576" value="إنه">
+    <analysis stem="انه" type="ROOT" />
+  </word>
+  <word w_id="577" value="أخطأ">
+    <analysis stem="خطأ" type="ROOT" />
+  </word>
+  <word w_id="578" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="579" value="الكل">
+    <analysis stem="لكل" type="ROOT" />
+  </word>
+  <word w_id="580" value="فإذا">
+    <analysis stem="فإذ" type="ROOT" />
+  </word>
+  <word w_id="581" value="جعلت">
+    <analysis stem="جعل" type="ROOT" />
+  </word>
+  <word w_id="582" value="ما">
+    <analysis stem="ما" type="ROOT" />
+  </word>
+  <word w_id="583" value="وافقوه">
+    <analysis stem="فقو" type="ROOT" />
+  </word>
+  <word w_id="584" value="مقابلا">
+    <analysis stem="قبل" type="ROOT" />
+  </word>
+  <word w_id="585" value="بما">
+    <analysis stem="بما" type="ROOT" />
+  </word>
+  <word w_id="586" value="خالفوه">
+    <analysis stem="خالفو" type="ROOT" />
+  </word>
+  <word w_id="587" value="فيه">
+    <analysis stem="فيه" type="ROOT" />
+  </word>
+  <word w_id="588" value="سلم">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="589" value="له">
+    <analysis stem="له" type="ROOT" />
+  </word>
+  <word w_id="590" value="ثلاثة">
+    <analysis stem="ثلث" type="ROOT" />
+  </word>
+  <word w_id="591" value="أرباع">
+    <analysis stem="ربع" type="ROOT" />
+  </word>
+  <word w_id="592" value="العلم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="593" value="وبقي">
+    <analysis stem="وبق" type="ROOT" />
+  </word>
+  <word w_id="594" value="الربع">
+    <analysis stem="ربع" type="ROOT" />
+  </word>
+  <word w_id="595" value="بينه">
+    <analysis stem="بين" type="ROOT" />
+  </word>
+  <word w_id="596" value="وبين">
+    <analysis stem="وبين" type="ROOT" />
+  </word>
+  <word w_id="597" value="سائر">
+    <analysis stem="سئر" type="ROOT" />
+  </word>
+  <word w_id="598" value="الناس">
+    <analysis stem="لنس" type="ROOT" />
+  </word>
+  <word w_id="599" value="فتاب">
+    <analysis stem="فتب" type="ROOT" />
+  </word>
+  <word w_id="600" value="الرجل">
+    <analysis stem="رجل" type="ROOT" />
+  </word>
+  <word w_id="601" value="عن">
+    <analysis stem="عن" type="ROOT" />
+  </word>
+  <word w_id="602" value="مقالته">
+    <analysis stem="قلت" type="ROOT" />
+  </word>
+  <word w_id="603" value="ومن">
+    <analysis stem="ومن" type="ROOT" />
+  </word>
+  <word w_id="604" value="فرغ">
+    <analysis stem="فرغ" type="ROOT" />
+  </word>
+  <word w_id="605" value="نفسه">
+    <analysis stem="نفس" type="ROOT" />
+  </word>
+  <word w_id="606" value="لتصنيف">
+    <analysis stem="صنف" type="ROOT" />
+  </word>
+  <word w_id="607" value="ما">
+    <analysis stem="ما" type="ROOT" />
+  </word>
+  <word w_id="608" value="فرعه">
+    <analysis stem="فرع" type="ROOT" />
+  </word>
+  <word w_id="609" value="أبو">
+    <analysis stem="ابو" type="ROOT" />
+  </word>
+  <word w_id="610" value="حنيفة">
+    <analysis stem="حنف" type="ROOT" />
+  </word>
+  <word w_id="611" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="612" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="613" value="محمد">
+    <analysis stem="حمد" type="ROOT" />
+  </word>
+  <word w_id="614" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="615" value="الحسن">
+    <analysis stem="لحس" type="ROOT" />
+  </word>
+  <word w_id="616" value="الشيباني">
+    <analysis stem="شيب" type="ROOT" />
+  </word>
+  <word w_id="617" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="618" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="619" value="فإنه">
+    <analysis stem="فإن" type="ROOT" />
+  </word>
+  <word w_id="620" value="جمع">
+    <analysis stem="جمع" type="ROOT" />
+  </word>
+  <word w_id="621" value="المبسوط">
+    <analysis stem="بسط" type="ROOT" />
+  </word>
+  <word w_id="622" value="لترغيب">
+    <analysis stem="رغب" type="ROOT" />
+  </word>
+  <word w_id="623" value="المتعلمين">
+    <analysis stem="تعلم" type="ROOT" />
+  </word>
+  <word w_id="624" value="والتيسير">
+    <analysis stem="يسر" type="ROOT" />
+  </word>
+  <word w_id="625" value="عليهم">
+    <analysis stem="عليهم" type="ROOT" />
+  </word>
+  <word w_id="626" value="ببسط">
+    <analysis stem="بسط" type="ROOT" />
+  </word>
+  <word w_id="627" value="الألفاظ">
+    <analysis stem="لفظ" type="ROOT" />
+  </word>
+  <word w_id="628" value="وتكرار">
+    <analysis stem="كرر" type="ROOT" />
+  </word>
+  <word w_id="629" value="المسائل">
+    <analysis stem="سئل" type="ROOT" />
+  </word>
+  <word w_id="630" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="631" value="الكتب">
+    <analysis stem="كتب" type="ROOT" />
+  </word>
+  <word w_id="632" value="ليحفظوها">
+    <analysis stem="حفظو" type="ROOT" />
+  </word>
+  <word w_id="633" value="شاؤوا">
+    <analysis stem="شؤا" type="ROOT" />
+  </word>
+  <word w_id="634" value="أو">
+    <analysis stem="او" type="ROOT" />
+  </word>
+  <word w_id="635" value="أبوا">
+    <analysis stem="ابا" type="ROOT" />
+  </word>
+  <word w_id="636" value="إلى">
+    <analysis stem="الى" type="ROOT" />
+  </word>
+  <word w_id="637" value="أن">
+    <analysis stem="ان" type="ROOT" />
+  </word>
+  <word w_id="638" value="رأى">
+    <analysis stem="رأى" type="ROOT" />
+  </word>
+  <word w_id="639" value="الحاكم">
+    <analysis stem="حكم" type="ROOT" />
+  </word>
+  <word w_id="640" value="الشهيد">
+    <analysis stem="شهد" type="ROOT" />
+  </word>
+  <word w_id="641" value="أبو">
+    <analysis stem="ابو" type="ROOT" />
+  </word>
+  <word w_id="642" value="الفضل">
+    <analysis stem="فضل" type="ROOT" />
+  </word>
+  <word w_id="643" value="محمد">
+    <analysis stem="حمد" type="ROOT" />
+  </word>
+  <word w_id="644" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="645" value="أحمد">
+    <analysis stem="حمد" type="ROOT" />
+  </word>
+  <word w_id="646" value="المروزي">
+    <analysis stem="روز" type="ROOT" />
+  </word>
+  <word w_id="647" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="648" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="649" value="إعراضا">
+    <analysis stem="عرض" type="ROOT" />
+  </word>
+  <word w_id="650" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="651" value="بعض">
+    <analysis stem="بعض" type="ROOT" />
+  </word>
+  <word w_id="652" value="المتعلمين">
+    <analysis stem="تعلم" type="ROOT" />
+  </word>
+  <word w_id="653" value="عن">
+    <analysis stem="عن" type="ROOT" />
+  </word>
+  <word w_id="654" value="قراءة">
+    <analysis stem="قرء" type="ROOT" />
+  </word>
+  <word w_id="655" value="المبسوط">
+    <analysis stem="بسط" type="ROOT" />
+  </word>
+  <word w_id="656" value="لبسط">
+    <analysis stem="بسط" type="ROOT" />
+  </word>
+  <word w_id="657" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="658" value="الألفاظ">
+    <analysis stem="لفظ" type="ROOT" />
+  </word>
+  <word w_id="659" value="وتكرار">
+    <analysis stem="كرر" type="ROOT" />
+  </word>
+  <word w_id="660" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="661" value="المسائل">
+    <analysis stem="سئل" type="ROOT" />
+  </word>
+  <word w_id="662" value="فرأى">
+    <analysis stem="رأى" type="ROOT" />
+  </word>
+  <word w_id="663" value="الصواب">
+    <analysis stem="صوب" type="ROOT" />
+  </word>
+  <word w_id="664" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="665" value="تأليف">
+    <analysis stem="ألف" type="ROOT" />
+  </word>
+  <word w_id="666" value="المختصر">
+    <analysis stem="خصر" type="ROOT" />
+  </word>
+  <word w_id="667" value="بذكر">
+    <analysis stem="ذكر" type="ROOT" />
+  </word>
+  <word w_id="668" value="معاني">
+    <analysis stem="عني" type="ROOT" />
+  </word>
+  <word w_id="669" value="كتب">
+    <analysis stem="كتب" type="ROOT" />
+  </word>
+  <word w_id="670" value="محمد">
+    <analysis stem="حمد" type="ROOT" />
+  </word>
+  <word w_id="671" value="بن">
+    <analysis stem="بن" type="ROOT" />
+  </word>
+  <word w_id="672" value="الحسن">
+    <analysis stem="لحس" type="ROOT" />
+  </word>
+  <word w_id="673" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="674" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="675" value="المبسوطة">
+    <analysis stem="بسط" type="ROOT" />
+  </word>
+  <word w_id="676" value="فيه">
+    <analysis stem="فيه" type="ROOT" />
+  </word>
+  <word w_id="677" value="وحذف">
+    <analysis stem="حذف" type="ROOT" />
+  </word>
+  <word w_id="678" value="المكرر">
+    <analysis stem="كرر" type="ROOT" />
+  </word>
+  <word w_id="679" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="680" value="مسائلة">
+    <analysis stem="سئل" type="ROOT" />
+  </word>
+  <word w_id="681" value="ترغيبا">
+    <analysis stem="رغب" type="ROOT" />
+  </word>
+  <word w_id="682" value="للمقتبسين">
+    <analysis stem="قبس" type="ROOT" />
+  </word>
+  <word w_id="683" value="ونعم">
+    <analysis stem="نعم" type="ROOT" />
+  </word>
+  <word w_id="684" value="ما">
+    <analysis stem="ما" type="ROOT" />
+  </word>
+  <word w_id="685" value="صنع">
+    <analysis stem="صنع" type="ROOT" />
+  </word>
+  <word w_id="686" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="687" value="الشيخ">
+    <analysis stem="لشخ" type="ROOT" />
+  </word>
+  <word w_id="688" value="الإمام">
+    <analysis stem="امم" type="ROOT" />
+  </word>
+  <word w_id="689" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="690" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="691" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="692" value="ثم">
+    <analysis stem="ثم" type="ROOT" />
+  </word>
+  <word w_id="693" value="إني">
+    <analysis stem="اني" type="ROOT" />
+  </word>
+  <word w_id="694" value="رأيت">
+    <analysis stem="رأت" type="ROOT" />
+  </word>
+  <word w_id="695" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="696" value="زماني">
+    <analysis stem="زمن" type="ROOT" />
+  </word>
+  <word w_id="697" value="بعض">
+    <analysis stem="بعض" type="ROOT" />
+  </word>
+  <word w_id="698" value="الإعراض">
+    <analysis stem="عرض" type="ROOT" />
+  </word>
+  <word w_id="699" value="عن">
+    <analysis stem="عن" type="ROOT" />
+  </word>
+  <word w_id="700" value="الفقه">
+    <analysis stem="لفق" type="ROOT" />
+  </word>
+  <word w_id="701" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="702" value="الطالبين">
+    <analysis stem="طلب" type="ROOT" />
+  </word>
+  <word w_id="703" value="لأسباب">
+    <analysis stem="أسباب" type="ROOT" />
+  </word>
+  <word w_id="704" value="فمنها">
+    <analysis stem="فمن" type="ROOT" />
+  </word>
+  <word w_id="705" value="قصور">
+    <analysis stem="قصر" type="ROOT" />
+  </word>
+  <word w_id="706" value="الهمم">
+    <analysis stem="همم" type="ROOT" />
+  </word>
+  <word w_id="707" value="لبعضهم">
+    <analysis stem="بعض" type="ROOT" />
+  </word>
+  <word w_id="708" value="حتى">
+    <analysis stem="حتى" type="ROOT" />
+  </word>
+  <word w_id="709" value="اكتفوا">
+    <analysis stem="كتف" type="ROOT" />
+  </word>
+  <word w_id="710" value="بالخلافيات">
+    <analysis stem="خلف" type="ROOT" />
+  </word>
+  <word w_id="711" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="712" value="المسائل">
+    <analysis stem="سئل" type="ROOT" />
+  </word>
+  <word w_id="713" value="الطوال">
+    <analysis stem="طول" type="ROOT" />
+  </word>
+  <word w_id="714" value="ومنها">
+    <analysis stem="ومن" type="ROOT" />
+  </word>
+  <word w_id="715" value="ترك">
+    <analysis stem="ترك" type="ROOT" />
+  </word>
+  <word w_id="716" value="النصيحة">
+    <analysis stem="نصح" type="ROOT" />
+  </word>
+  <word w_id="717" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="718" value="بعض">
+    <analysis stem="بعض" type="ROOT" />
+  </word>
+  <word w_id="719" value="المدرسين">
+    <analysis stem="درس" type="ROOT" />
+  </word>
+  <word w_id="720" value="بالتطويل">
+    <analysis stem="طول" type="ROOT" />
+  </word>
+  <word w_id="721" value="عليهم">
+    <analysis stem="عليهم" type="ROOT" />
+  </word>
+  <word w_id="722" value="بالنكات">
+    <analysis stem="نكت" type="ROOT" />
+  </word>
+  <word w_id="723" value="الطردية">
+    <analysis stem="طرد" type="ROOT" />
+  </word>
+  <word w_id="724" value="التي">
+    <analysis stem="التي" type="ROOT" />
+  </word>
+  <word w_id="725" value="لا">
+    <analysis stem="لا" type="ROOT" />
+  </word>
+  <word w_id="726" value="فقه">
+    <analysis stem="فقه" type="ROOT" />
+  </word>
+  <word w_id="727" value="تحتها">
+    <analysis stem="حها" type="ROOT" />
+  </word>
+  <word w_id="728" value="ومنها">
+    <analysis stem="ومن" type="ROOT" />
+  </word>
+  <word w_id="729" value="تطويل">
+    <analysis stem="طول" type="ROOT" />
+  </word>
+  <word w_id="730" value="بعض">
+    <analysis stem="بعض" type="ROOT" />
+  </word>
+  <word w_id="731" value="المتكلمين">
+    <analysis stem="تكلم" type="ROOT" />
+  </word>
+  <word w_id="732" value="بذكر">
+    <analysis stem="ذكر" type="ROOT" />
+  </word>
+  <word w_id="733" value="ألفاظ">
+    <analysis stem="لفظ" type="ROOT" />
+  </word>
+  <word w_id="734" value="الفلاسفة">
+    <analysis stem="لسف" type="ROOT" />
+  </word>
+  <word w_id="735" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="736" value="شرح">
+    <analysis stem="شرح" type="ROOT" />
+  </word>
+  <word w_id="737" value="معاني">
+    <analysis stem="عني" type="ROOT" />
+  </word>
+  <word w_id="738" value="الفقه">
+    <analysis stem="لفق" type="ROOT" />
+  </word>
+  <word w_id="739" value="وخلط">
+    <analysis stem="خلط" type="ROOT" />
+  </word>
+  <word w_id="740" value="حدود">
+    <analysis stem="حدد" type="ROOT" />
+  </word>
+  <word w_id="741" value="كلامهم">
+    <analysis stem="كلم" type="ROOT" />
+  </word>
+  <word w_id="742" value="بها">
+    <analysis stem="بها" type="ROOT" />
+  </word>
+  <word w_id="743" value="فرأيت">
+    <analysis stem="فرأ" type="ROOT" />
+  </word>
+  <word w_id="744" value="الصواب">
+    <analysis stem="صوب" type="ROOT" />
+  </word>
+  <word w_id="745" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="746" value="تأليف">
+    <analysis stem="ألف" type="ROOT" />
+  </word>
+  <word w_id="747" value="شرح">
+    <analysis stem="شرح" type="ROOT" />
+  </word>
+  <word w_id="748" value="المختصر">
+    <analysis stem="خصر" type="ROOT" />
+  </word>
+  <word w_id="749" value="لا">
+    <analysis stem="لا" type="ROOT" />
+  </word>
+  <word w_id="750" value="أزيد">
+    <analysis stem="ازد" type="ROOT" />
+  </word>
+  <word w_id="751" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="752" value="المعنى">
+    <analysis stem="عنى" type="ROOT" />
+  </word>
+  <word w_id="753" value="المؤثر">
+    <analysis stem="ؤثر" type="ROOT" />
+  </word>
+  <word w_id="754" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="755" value="بيان">
+    <analysis stem="بين" type="ROOT" />
+  </word>
+  <word w_id="756" value="كل">
+    <analysis stem="كل" type="ROOT" />
+  </word>
+  <word w_id="757" value="مسألة">
+    <analysis stem="سأل" type="ROOT" />
+  </word>
+  <word w_id="758" value="اكتفاء">
+    <analysis stem="كفء" type="ROOT" />
+  </word>
+  <word w_id="759" value="بما">
+    <analysis stem="بما" type="ROOT" />
+  </word>
+  <word w_id="760" value="هو">
+    <analysis stem="هو" type="ROOT" />
+  </word>
+  <word w_id="761" value="المعتمد">
+    <analysis stem="عمد" type="ROOT" />
+  </word>
+  <word w_id="762" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="763" value="كل">
+    <analysis stem="كل" type="ROOT" />
+  </word>
+  <word w_id="764" value="باب">
+    <analysis stem="باب" type="ROOT" />
+  </word>
+  <word w_id="765" value="وقد">
+    <analysis stem="وقد" type="ROOT" />
+  </word>
+  <word w_id="766" value="انضم">
+    <analysis stem="نضم" type="ROOT" />
+  </word>
+  <word w_id="767" value="إلى">
+    <analysis stem="الى" type="ROOT" />
+  </word>
+  <word w_id="768" value="ذلك">
+    <analysis stem="ذلك" type="ROOT" />
+  </word>
+  <word w_id="769" value="سؤال">
+    <analysis stem="سؤل" type="ROOT" />
+  </word>
+  <word w_id="770" value="بعض">
+    <analysis stem="بعض" type="ROOT" />
+  </word>
+  <word w_id="771" value="الخواص">
+    <analysis stem="خوص" type="ROOT" />
+  </word>
+  <word w_id="772" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="773" value="أصحابي">
+    <analysis stem="صحب" type="ROOT" />
+  </word>
+  <word w_id="774" value="زمن">
+    <analysis stem="زمن" type="ROOT" />
+  </word>
+  <word w_id="775" value="حبسي">
+    <analysis stem="حبس" type="ROOT" />
+  </word>
+  <word w_id="776" value="حين">
+    <analysis stem="حين" type="ROOT" />
+  </word>
+  <word w_id="777" value="ساعدوني">
+    <analysis stem="عدو" type="ROOT" />
+  </word>
+  <word w_id="778" value="لأنسي">
+    <analysis stem="أنس" type="ROOT" />
+  </word>
+  <word w_id="779" value="أن">
+    <analysis stem="ان" type="ROOT" />
+  </word>
+  <word w_id="780" value="أملي">
+    <analysis stem="امل" type="ROOT" />
+  </word>
+  <word w_id="781" value="عليهم">
+    <analysis stem="عليهم" type="ROOT" />
+  </word>
+  <word w_id="782" value="ذلك">
+    <analysis stem="ذلك" type="ROOT" />
+  </word>
+  <word w_id="783" value="فأجبتهم">
+    <analysis stem="أجب" type="ROOT" />
+  </word>
+  <word w_id="784" value="إليه">
+    <analysis stem="اله" type="ROOT" />
+  </word>
+  <word w_id="785" value="وأسأل">
+    <analysis stem="أسأل" type="ROOT" />
+  </word>
+  <word w_id="786" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="787" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="788" value="التوفيق">
+    <analysis stem="وفق" type="ROOT" />
+  </word>
+  <word w_id="789" value="للصواب">
+    <analysis stem="صوب" type="ROOT" />
+  </word>
+  <word w_id="790" value="والعصمة">
+    <analysis stem="عصم" type="ROOT" />
+  </word>
+  <word w_id="791" value="عن">
+    <analysis stem="عن" type="ROOT" />
+  </word>
+  <word w_id="792" value="الخطأ">
+    <analysis stem="خطأ" type="ROOT" />
+  </word>
+  <word w_id="793" value="وما">
+    <analysis stem="وما" type="ROOT" />
+  </word>
+  <word w_id="794" value="يوجب">
+    <analysis stem="وجب" type="ROOT" />
+  </word>
+  <word w_id="795" value="العقاب">
+    <analysis stem="عقب" type="ROOT" />
+  </word>
+  <word w_id="796" value="وأن">
+    <analysis stem="وأن" type="ROOT" />
+  </word>
+  <word w_id="797" value="يجعل">
+    <analysis stem="جعل" type="ROOT" />
+  </word>
+  <word w_id="798" value="ما">
+    <analysis stem="ما" type="ROOT" />
+  </word>
+  <word w_id="799" value="نويت">
+    <analysis stem="نوت" type="ROOT" />
+  </word>
+  <word w_id="800" value="فيما">
+    <analysis stem="فيم" type="ROOT" />
+  </word>
+  <word w_id="801" value="أمليت">
+    <analysis stem="امل" type="ROOT" />
+  </word>
+  <word w_id="802" value="سببا">
+    <analysis stem="سبب" type="ROOT" />
+  </word>
+  <word w_id="803" value="لخلاصي">
+    <analysis stem="خلص" type="ROOT" />
+  </word>
+  <word w_id="804" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="805" value="الدنيا">
+    <analysis stem="دنا" type="ROOT" />
+  </word>
+  <word w_id="806" value="ونجاتي">
+    <analysis stem="ونج" type="ROOT" />
+  </word>
+  <word w_id="807" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="808" value="الآخرة">
+    <analysis stem="اخر" type="ROOT" />
+  </word>
+  <word w_id="809" value="إنه">
+    <analysis stem="انه" type="ROOT" />
+  </word>
+  <word w_id="810" value="قريب">
+    <analysis stem="قرب" type="ROOT" />
+  </word>
+  <word w_id="811" value="مجيب">
+    <analysis stem="جيب" type="ROOT" />
+  </word>
+  <word w_id="812" value="ثم">
+    <analysis stem="ثم" type="ROOT" />
+  </word>
+  <word w_id="813" value="إنه">
+    <analysis stem="انه" type="ROOT" />
+  </word>
+  <word w_id="814" value="بدأ">
+    <analysis stem="بدأ" type="ROOT" />
+  </word>
+  <word w_id="815" value="بكتاب">
+    <analysis stem="كتب" type="ROOT" />
+  </word>
+  <word w_id="816" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="817" value="لأن">
+    <analysis stem="لأن" type="ROOT" />
+  </word>
+  <word w_id="818" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="819" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="820" value="أقوى">
+    <analysis stem="اقى" type="ROOT" />
+  </word>
+  <word w_id="821" value="الأركان">
+    <analysis stem="ركن" type="ROOT" />
+  </word>
+  <word w_id="822" value="بعد">
+    <analysis stem="بعد" type="ROOT" />
+  </word>
+  <word w_id="823" value="الإيمان">
+    <analysis stem="يمن" type="ROOT" />
+  </word>
+  <word w_id="824" value="بالله">
+    <analysis stem="بلل" type="ROOT" />
+  </word>
+  <word w_id="825" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="826" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="827" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="828" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="829" value="فإن">
+    <analysis stem="فإن" type="ROOT" />
+  </word>
+  <word w_id="830" value="تابوا">
+    <analysis stem="تبا" type="ROOT" />
+  </word>
+  <word w_id="831" value="وأقاموا">
+    <analysis stem="أقم" type="ROOT" />
+  </word>
+  <word w_id="832" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="833" value="وقال">
+    <analysis stem="وقل" type="ROOT" />
+  </word>
+  <word w_id="834" value="عليه">
+    <analysis stem="عليه" type="ROOT" />
+  </word>
+  <word w_id="835" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="836" value="والسلام">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="837" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="838" value="عماد">
+    <analysis stem="عمد" type="ROOT" />
+  </word>
+  <word w_id="839" value="الدين">
+    <analysis stem="الد" type="ROOT" />
+  </word>
+  <word w_id="840" value="فمن">
+    <analysis stem="فمن" type="ROOT" />
+  </word>
+  <word w_id="841" value="أراد">
+    <analysis stem="ارد" type="ROOT" />
+  </word>
+  <word w_id="842" value="نصب">
+    <analysis stem="نصب" type="ROOT" />
+  </word>
+  <word w_id="843" value="خيمة">
+    <analysis stem="خيم" type="ROOT" />
+  </word>
+  <word w_id="844" value="بدأ">
+    <analysis stem="بدأ" type="ROOT" />
+  </word>
+  <word w_id="845" value="بنصب">
+    <analysis stem="نصب" type="ROOT" />
+  </word>
+  <word w_id="846" value="العماد">
+    <analysis stem="عمد" type="ROOT" />
+  </word>
+  <word w_id="847" value="والصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="848" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="849" value="أعلى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="850" value="معالم">
+    <analysis stem="علم" type="ROOT" />
+  </word>
+  <word w_id="851" value="الدين">
+    <analysis stem="الد" type="ROOT" />
+  </word>
+  <word w_id="852" value="ما">
+    <analysis stem="ما" type="ROOT" />
+  </word>
+  <word w_id="853" value="خلت">
+    <analysis stem="خلت" type="ROOT" />
+  </word>
+  <word w_id="854" value="عنها">
+    <analysis stem="عنه" type="ROOT" />
+  </word>
+  <word w_id="855" value="شريعة">
+    <analysis stem="شرع" type="ROOT" />
+  </word>
+  <word w_id="856" value="المرسلين">
+    <analysis stem="رسل" type="ROOT" />
+  </word>
+  <word w_id="857" value="صلوات">
+    <analysis stem="صلا" type="ROOT" />
+  </word>
+  <word w_id="858" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="859" value="وسلامه">
+    <analysis stem="سلم" type="ROOT" />
+  </word>
+  <word w_id="860" value="عليهم">
+    <analysis stem="عليهم" type="ROOT" />
+  </word>
+  <word w_id="861" value="أجمعين">
+    <analysis stem="جمع" type="ROOT" />
+  </word>
+  <word w_id="862" value="وقد">
+    <analysis stem="وقد" type="ROOT" />
+  </word>
+  <word w_id="863" value="سمعت">
+    <analysis stem="سمع" type="ROOT" />
+  </word>
+  <word w_id="864" value="شيخنا">
+    <analysis stem="شيخ" type="ROOT" />
+  </word>
+  <word w_id="865" value="الإمام">
+    <analysis stem="امم" type="ROOT" />
+  </word>
+  <word w_id="866" value="الأستاذ">
+    <analysis stem="ساذ" type="ROOT" />
+  </word>
+  <word w_id="867" value="شمس">
+    <analysis stem="شمس" type="ROOT" />
+  </word>
+  <word w_id="868" value="الأئمة">
+    <analysis stem="ائم" type="ROOT" />
+  </word>
+  <word w_id="869" value="الحلواني">
+    <analysis stem="حلا" type="ROOT" />
+  </word>
+  <word w_id="870" value="رحمه">
+    <analysis stem="رحم" type="ROOT" />
+  </word>
+  <word w_id="871" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="872" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="873" value="يقول">
+    <analysis stem="يقل" type="ROOT" />
+  </word>
+  <word w_id="874" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="875" value="تأويل">
+    <analysis stem="أول" type="ROOT" />
+  </word>
+  <word w_id="876" value="قوله">
+    <analysis stem="قول" type="ROOT" />
+  </word>
+  <word w_id="877" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="878" value="وأقم">
+    <analysis stem="أقم" type="ROOT" />
+  </word>
+  <word w_id="879" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="880" value="لذكري">
+    <analysis stem="ذكر" type="ROOT" />
+  </word>
+  <word w_id="881" value="أي">
+    <analysis stem="اي" type="ROOT" />
+  </word>
+  <word w_id="882" value="لأني">
+    <analysis stem="لأن" type="ROOT" />
+  </word>
+  <word w_id="883" value="ذكرتها">
+    <analysis stem="ذكر" type="ROOT" />
+  </word>
+  <word w_id="884" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="885" value="كل">
+    <analysis stem="كل" type="ROOT" />
+  </word>
+  <word w_id="886" value="كتاب">
+    <analysis stem="كتب" type="ROOT" />
+  </word>
+  <word w_id="887" value="منزل">
+    <analysis stem="نزل" type="ROOT" />
+  </word>
+  <word w_id="888" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="889" value="لسان">
+    <analysis stem="لسن" type="ROOT" />
+  </word>
+  <word w_id="890" value="كل">
+    <analysis stem="كل" type="ROOT" />
+  </word>
+  <word w_id="891" value="نبي">
+    <analysis stem="نبي" type="ROOT" />
+  </word>
+  <word w_id="892" value="مرسل">
+    <analysis stem="رسل" type="ROOT" />
+  </word>
+  <word w_id="893" value="وفي">
+    <analysis stem="وفي" type="ROOT" />
+  </word>
+  <word w_id="894" value="قوله">
+    <analysis stem="قول" type="ROOT" />
+  </word>
+  <word w_id="895" value="عز">
+    <analysis stem="عز" type="ROOT" />
+  </word>
+  <word w_id="896" value="وجل">
+    <analysis stem="وجل" type="ROOT" />
+  </word>
+  <word w_id="897" value="ما">
+    <analysis stem="ما" type="ROOT" />
+  </word>
+  <word w_id="898" value="سلككم">
+    <analysis stem="ككم" type="ROOT" />
+  </word>
+  <word w_id="899" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="900" value="سقر">
+    <analysis stem="سقر" type="ROOT" />
+  </word>
+  <word w_id="901" value="قالوا">
+    <analysis stem="قلا" type="ROOT" />
+  </word>
+  <word w_id="902" value="فحين">
+    <analysis stem="فحن" type="ROOT" />
+  </word>
+  <word w_id="903" value="وقعت">
+    <analysis stem="وقع" type="ROOT" />
+  </word>
+  <word w_id="904" value="بها">
+    <analysis stem="بها" type="ROOT" />
+  </word>
+  <word w_id="905" value="البداية">
+    <analysis stem="بدي" type="ROOT" />
+  </word>
+  <word w_id="906" value="دل">
+    <analysis stem="دل" type="ROOT" />
+  </word>
+  <word w_id="907" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="908" value="أنها">
+    <analysis stem="انه" type="ROOT" />
+  </word>
+  <word w_id="909" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="910" value="القوة">
+    <analysis stem="لقو" type="ROOT" />
+  </word>
+  <word w_id="911" value="بأعلى">
+    <analysis stem="أعلى" type="ROOT" />
+  </word>
+  <word w_id="912" value="النهاية">
+    <analysis stem="نهي" type="ROOT" />
+  </word>
+  <word w_id="913" value="وفي">
+    <analysis stem="وفي" type="ROOT" />
+  </word>
+  <word w_id="914" value="اسم">
+    <analysis stem="اسم" type="ROOT" />
+  </word>
+  <word w_id="915" value="الصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="916" value="ما">
+    <analysis stem="ما" type="ROOT" />
+  </word>
+  <word w_id="917" value="يدل">
+    <analysis stem="يدل" type="ROOT" />
+  </word>
+  <word w_id="918" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="919" value="أنها">
+    <analysis stem="انه" type="ROOT" />
+  </word>
+  <word w_id="920" value="ثانية">
+    <analysis stem="ثني" type="ROOT" />
+  </word>
+  <word w_id="921" value="الإيمان">
+    <analysis stem="يمن" type="ROOT" />
+  </word>
+  <word w_id="922" value="فالمصلي">
+    <analysis stem="مصل" type="ROOT" />
+  </word>
+  <word w_id="923" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="924" value="اللغة">
+    <analysis stem="للغ" type="ROOT" />
+  </word>
+  <word w_id="925" value="هو">
+    <analysis stem="هو" type="ROOT" />
+  </word>
+  <word w_id="926" value="التالي">
+    <analysis stem="تلي" type="ROOT" />
+  </word>
+  <word w_id="927" value="للسابق">
+    <analysis stem="سبق" type="ROOT" />
+  </word>
+  <word w_id="928" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="929" value="الخيل">
+    <analysis stem="لخل" type="ROOT" />
+  </word>
+  <word w_id="930" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="931" value="القائل">
+    <analysis stem="قئل" type="ROOT" />
+  </word>
+  <word w_id="932" value="ولا">
+    <analysis stem="ولا" type="ROOT" />
+  </word>
+  <word w_id="933" value="بد">
+    <analysis stem="بد" type="ROOT" />
+  </word>
+  <word w_id="934" value="لي">
+    <analysis stem="لي" type="ROOT" />
+  </word>
+  <word w_id="935" value="من">
+    <analysis stem="من" type="ROOT" />
+  </word>
+  <word w_id="936" value="أن">
+    <analysis stem="ان" type="ROOT" />
+  </word>
+  <word w_id="937" value="أكون">
+    <analysis stem="اكن" type="ROOT" />
+  </word>
+  <word w_id="938" value="مصليا">
+    <analysis stem="صلا" type="ROOT" />
+  </word>
+  <word w_id="939" value="إذا">
+    <analysis stem="اذا" type="ROOT" />
+  </word>
+  <word w_id="940" value="كنت">
+    <analysis stem="كنت" type="ROOT" />
+  </word>
+  <word w_id="941" value="أرضى">
+    <analysis stem="رضى" type="ROOT" />
+  </word>
+  <word w_id="942" value="أن">
+    <analysis stem="ان" type="ROOT" />
+  </word>
+  <word w_id="943" value="يكون">
+    <analysis stem="يكون" type="ROOT" />
+  </word>
+  <word w_id="944" value="لك">
+    <analysis stem="لك" type="ROOT" />
+  </word>
+  <word w_id="945" value="السبق">
+    <analysis stem="سبق" type="ROOT" />
+  </word>
+  <word w_id="946" value="وفي">
+    <analysis stem="وفي" type="ROOT" />
+  </word>
+  <word w_id="947" value="رواية">
+    <analysis stem="روي" type="ROOT" />
+  </word>
+  <word w_id="948" value="أما">
+    <analysis stem="اما" type="ROOT" />
+  </word>
+  <word w_id="949" value="كنت">
+    <analysis stem="كنت" type="ROOT" />
+  </word>
+  <word w_id="950" value="ترضى">
+    <analysis stem="رضى" type="ROOT" />
+  </word>
+  <word w_id="951" value="أن">
+    <analysis stem="ان" type="ROOT" />
+  </word>
+  <word w_id="952" value="أكون">
+    <analysis stem="اكن" type="ROOT" />
+  </word>
+  <word w_id="953" value="مصليا">
+    <analysis stem="صلا" type="ROOT" />
+  </word>
+  <word w_id="954" value="والصلاة">
+    <analysis stem="صلة" type="ROOT" />
+  </word>
+  <word w_id="955" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="956" value="اللغة">
+    <analysis stem="للغ" type="ROOT" />
+  </word>
+  <word w_id="957" value="عبارة">
+    <analysis stem="عبر" type="ROOT" />
+  </word>
+  <word w_id="958" value="عن">
+    <analysis stem="عن" type="ROOT" />
+  </word>
+  <word w_id="959" value="الدعاء">
+    <analysis stem="دعء" type="ROOT" />
+  </word>
+  <word w_id="960" value="والثناء">
+    <analysis stem="ثنء" type="ROOT" />
+  </word>
+  <word w_id="961" value="قال">
+    <analysis stem="قال" type="ROOT" />
+  </word>
+  <word w_id="962" value="الله">
+    <analysis stem="الل" type="ROOT" />
+  </word>
+  <word w_id="963" value="تعالى">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="964" value="وصل">
+    <analysis stem="وصل" type="ROOT" />
+  </word>
+  <word w_id="965" value="عليهم">
+    <analysis stem="عليهم" type="ROOT" />
+  </word>
+  <word w_id="966" value="إن">
+    <analysis stem="ان" type="ROOT" />
+  </word>
+  <word w_id="967" value="صلاتك">
+    <analysis stem="صلت" type="ROOT" />
+  </word>
+  <word w_id="968" value="سكن">
+    <analysis stem="سكن" type="ROOT" />
+  </word>
+  <word w_id="969" value="لهم">
+    <analysis stem="لهم" type="ROOT" />
+  </word>
+  <word w_id="970" value="أي">
+    <analysis stem="اي" type="ROOT" />
+  </word>
+  <word w_id="971" value="دعاءك">
+    <analysis stem="دعء" type="ROOT" />
+  </word>
+  <word w_id="972" value="وقال">
+    <analysis stem="وقل" type="ROOT" />
+  </word>
+  <word w_id="973" value="القائل">
+    <analysis stem="قئل" type="ROOT" />
+  </word>
+  <word w_id="974" value="وقابلها">
+    <analysis stem="قبل" type="ROOT" />
+  </word>
+  <word w_id="975" value="الريح">
+    <analysis stem="لرح" type="ROOT" />
+  </word>
+  <word w_id="976" value="في">
+    <analysis stem="في" type="ROOT" />
+  </word>
+  <word w_id="977" value="دنها">
+    <analysis stem="دنه" type="ROOT" />
+  </word>
+  <word w_id="978" value="وصلى">
+    <analysis stem="صلى" type="ROOT" />
+  </word>
+  <word w_id="979" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="980" value="دنها">
+    <analysis stem="دنه" type="ROOT" />
+  </word>
+  <word w_id="981" value="وارتسم">
+    <analysis stem="رسم" type="ROOT" />
+  </word>
+  <word w_id="982" value="أي">
+    <analysis stem="اي" type="ROOT" />
+  </word>
+  <word w_id="983" value="دعا">
+    <analysis stem="دعا" type="ROOT" />
+  </word>
+  <word w_id="984" value="وأثنى">
+    <analysis stem="أثنى" type="ROOT" />
+  </word>
+  <word w_id="985" value="على">
+    <analysis stem="على" type="ROOT" />
+  </word>
+  <word w_id="986" value="دنها">
+    <analysis stem="دنه" type="ROOT" />
+  </word>
+  <word w_id="987" value="وفي">
+    <analysis stem="وفي" type="ROOT" />
+  </word>
+  <word w_id="988" value="الشريعة">
+    <analysis stem="شرع" type="ROOT" />
+  </word>
+  <word w_id="989" value="عبارة">
+    <analysis stem="عبر" type="ROOT" />
+  </word>
+  <word w_id="990" value="عن">
+    <analysis stem="عن" type="ROOT" />
+  </word>
+  <word w_id="991" value="أركان">
+    <analysis stem="ركن" type="ROOT" />
+  </word>
+  <word w_id="992" value="مخصوصة">
+    <analysis stem="خصص" type="ROOT" />
+  </word>
+  <word w_id="993" value="كان">
+    <analysis stem="كان" type="ROOT" />
+  </word>
+  <word w_id="994" value="فيها">
+    <analysis stem="فيه" type="ROOT" />
+  </word>
+  <word w_id="995" value="الدعاء">
+    <analysis stem="دعء" type="ROOT" />
+  </word>
+  <word w_id="996" value="أو">
+    <analysis stem="او" type="ROOT" />
+  </word>
+  <word w_id="997" value="لم">
+    <analysis stem="لم" type="ROOT" />
+  </word>
+</stemmer_analysis>
