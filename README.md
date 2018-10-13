@@ -1,9 +1,9 @@
 # Dataset for evaluating root extraction
 
 This dataset contains data to evaluate the roots extracted by Arabic
-morphological analyzers.
+stemmers and morphological analyzers.
 
-The dataset was created in the context of the Bridging the Gap project.
+The dataset was created in the context of the [Bridging the Gap project](https://www.esciencecenter.nl/project/bridging-the-gap).
 
 The `txt` directory contains the text files for which roots were extracted,
 and `gs` contains csv files with columns `word` and `root`, containing the words
