@@ -1,5 +1,7 @@
 # Dataset for evaluating root extraction
 
+[![DOI](https://zenodo.org/badge/152450910.svg)](https://zenodo.org/badge/latestdoi/152450910)
+
 This dataset contains data to evaluate the roots extracted by Arabic
 stemmers and morphological analyzers.
 
